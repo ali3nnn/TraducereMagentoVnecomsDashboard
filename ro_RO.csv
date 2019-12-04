@@ -1,0 +1,112 @@
+Error!, Eroare!
+"Your seller account status is Pending, You can not access to this function","Contul tău de vânzător este în așteptare pentru aprobare. Nu poți accesa această funcție"
+
+Dashboard, "Panou de control"
+Sales, "Vânzări"
+Reports, Rapoarte
+"Banner Manager", "Administrator de banner"
+Messages, Mesaje
+"Mass Import/Export", "Import/Export"
+Configuration, Setări
+Orders, Comenzi
+Invoices, Facturi
+Shipments, Livrări
+
+"Manage Products","Administrare produsele"
+"Featured Products", "Produse recomandate"
+"Manage Categories", "Administrează categoriile"
+
+"Manage Pages", "Administrează Paginile"
+"Manage Static Blocks", "Administrează Secțiunile"
+"Manage Frontend Applications", "Administrează Aplicațiile Vizuale"
+
+Products, Produse
+"Manage Banners", "Administrează banner"
+
+"Manage Images", "Administrează Imaginile"
+
+Visitors, Vizitatori
+History, Istoric
+
+"Credit Amount", "Valoare credit"
+"Lifetime Sales", "Total vânzărilor"
+"Average Orders", "Comandă medie"
+"Total Products", "Total produse"
+
+"Amounts", "Sume"
+"Credits", "Credite"
+
+"Last 24 Hours", "Ultimele 24h"
+"Last 7 Days", "Ultimele 7 zile"
+"Current Month", "Luna curentă"
+"Recently Added Products", "Produce adăugate recent"
+"We couldn't find any records.", "Nu există înregistrări"
+"View All Products", "Vezi Toate Produsele"
+
+"Last Orders", "Ultimele comenzi"
+"Last Transactions", "Ultimele tranzacții"
+"Bestseller","Cele mai Vândute Produse"
+"Most Viewed Products", "Cele mai Vizualizate Produse"
+
+"Withdraw", "Retrage"
+"Withdrawal History","Istoric retrageri"
+"Credit Transactions", "Tranzacții de credit"
+
+"Vendor Information","Informații vânzător"
+"Buyer Dashboard","Informații Cumpărător"
+Logout, Ieșire
+
+Invisible,Invizibil
+"MAIN NAVIGATION", "MENIU PRINCIPAL"
+
+"Save Config","Salvează Configurația"
+"Store Information", "Informații Magazin"
+"Store Name","Nume Magazin"
+"Store Phone Number", "Telefon"
+"Store Hours of Operation", "Programul de lucru"
+"Short Description","Scurtă descriere"
+"Locale Options","Opțiuni Geografice"
+"Locale", "Limba"
+
+"Category","Categorie"
+"Category Header","Numele categoriei"
+"Category Heading Label",""
+
+"Seller's Page","Pagină vânzătorului"
+"Băse URL","URL-ul de baza"
+"Header Logo", "Logo"
+"Banner Type","Tip de banner"
+"About Store","Despre magazin"
+"Refund Policy","Politică de returnare"
+"Shipping Policy","Politică de livrare"
+"Social Accounts","Conturi Social Media"
+"Homepage Meta Information","Informații Meta pentru Homepage"
+"Title","Titlu"
+"Description","Descriere"
+"Keywords","Cuvinte cheie"
+"Comma-spearated","Separate de virgulă"
+"Scripts and Style Sheets", "Scripturi și Style Sheets"
+"This will be included before head closing tag în page HTML of all vendor's pages.", "Acesta va fi inclus înainte de </head> în toate paginile vânzătorului."
+"This will be displayed just before the body closing tag of all vendor's pages.", "Acesta va fi afișat înainte de </body> în toate paginile vânzătorului"
+"Contents Management System","Sistem de administrare a conținutului"
+"Select Home Page","Selectează Home Page"
+"Show Bread Crumbs","Arată Bread Crumbs"
+
+"Wire Transfer","Transfer bancar"
+"Bank Name","Numele băncii"
+"SWIFT Code","Codul SWIFT"
+"Account Holder","Numele dețînătorului"
+"Account Number","IBAN"
+
+"Mass Import/Export","Import/Export lot"
+"Multiple value separator","Separator pentru mai mulți itemi"
+
+"Catalog Search","Căutare catalog"
+"Show Bread Crumb","Arată Bread Crumb"
+
+"Overview","Vedere generală"
+"by Month of Year","Pe luna"
+"by Day of Week","Pe zi"
+"by Hour","Pe ora"
+"Ordered","Comandate"
+"Low Stock","Stoc scăzut"
